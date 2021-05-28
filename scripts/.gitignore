@@ -1,0 +1,16 @@
+# [Temporary]
+## Ignore all files in subfolders, except empty file .gitkeep
+intro/figs/*
+data/figs/*
+theory/figs/*
+exploration/figs/*
+covars/figs/*
+
+!intro/figs/.gitkeep
+!data/figs/.gitkeep
+!theory/figs/.gitkeep
+!exploration/figs/.gitkeep
+!covars/figs/.gitkeep
+
+
+# [Permanent]
